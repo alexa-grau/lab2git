@@ -5,3 +5,10 @@ Major: Web Design and Engineering
 Minor: Computer Engineering
 
 Hobbies: baking, water polo
+
+Fall 2020 Courses
+- Software Engineering
+- Computer Architecture
+- Algorithms
+- Software Ethics
+- Senior Design
